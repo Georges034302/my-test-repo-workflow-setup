@@ -1,4 +1,4 @@
-# my-test-repo  <a href="https://georges034302.github.io/my-test-repo/">homepage</a>
+# my-test-repo  <a href="https://georges034302.github.io/my-test-repo-workflow-setup/">homepage</a>
 GitHub testing repo for Codespaces
 
 ### Learning GitHub Codespaces
